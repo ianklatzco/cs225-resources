@@ -16,9 +16,9 @@ linear probing:
 
 separate chaining:
     each entry is a linked list
-    
-    problem:
-        load factor: #keys / size(array)
+
+problem:
+    load factor: #keys / size(array)
 
 -------------------------------------
 
@@ -28,6 +28,7 @@ schashtable.cpp - separate chaining hash table
 
 lphashtable.cpp - linear probing hash table
     insert
+
 **You MUST handle collisions in your insert function**
 
 -------------------------------------
