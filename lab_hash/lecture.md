@@ -31,6 +31,11 @@ lphashtable.cpp - linear probing hash table
 
 **You MUST handle collisions in your insert function**
 
+---
+
+how do you do testing for this one? i'm not entirely sure.
+i wish it wasn't just "monad and check".
+
 -------------------------------------
 
 REAL WORLD ASIDE
@@ -45,4 +50,4 @@ wordCounter
 
 logFileParser
 
-don't forget to make data
+don't forget to `make data`
